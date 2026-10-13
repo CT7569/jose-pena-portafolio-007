@@ -1,0 +1,286 @@
+﻿Comuna,Especie,Anio,id_riego,Superficie_ha,Numero de arboles
+Chimbarongo,Almendro,2024,5,0.89,296
+Chimbarongo,Arándano Americano,2024,1,56.019999999999996,283214
+Chimbarongo,Avellano,2024,1,1.37,1370
+Chimbarongo,Cerezo,2024,1,3949.65,4657985
+Chimbarongo,Cerezo,2024,2,507.83,650562
+Chimbarongo,Cerezo,2024,4,487.88,497903
+Chimbarongo,Cerezo,2024,5,37.3,41590
+Chimbarongo,Ciruelo Europeo,2024,1,184.91,114883
+Chimbarongo,Ciruelo Europeo,2024,5,12.5,10417
+Chimbarongo,Ciruelo Japonés,2024,1,68.39,62257
+Chimbarongo,Duraznero Consumo Fresco,2024,4,2.7,3375
+Chimbarongo,Duraznero Tipo Conservero,2024,1,181.59,250153
+Chimbarongo,Duraznero Tipo Conservero,2024,5,12.0,10400
+Chimbarongo,Frambuesa,2024,1,46.69,485711
+Chimbarongo,Frambuesa,2024,4,6.1,66760
+Chimbarongo,Frambuesa,2024,5,0.2,2424
+Chimbarongo,Hardy Kiwi o Baby Kiwi,2024,1,2.5,2041
+Chimbarongo,Hardy Kiwi o Baby Kiwi,2024,2,1.5,1429
+Chimbarongo,Hardy Kiwi o Baby Kiwi,2024,5,0.8500000000000001,731
+Chimbarongo,Higuera,2024,1,2.5,1250
+Chimbarongo,Kiwi,2024,1,299.28000000000003,225513
+Chimbarongo,Kiwi,2024,2,246.77,198123
+Chimbarongo,Kiwi,2024,4,101.38,63481
+Chimbarongo,Kiwi,2024,5,9.120000000000001,6022
+Chimbarongo,Kiwi Gold o Kiwi Amarillo,2024,2,5.34,6182
+Chimbarongo,Mandarino,2024,1,5.0,7143
+Chimbarongo,Manzano Rojo,2024,1,359.69,547631
+Chimbarongo,Manzano Rojo,2024,2,281.35,403533
+Chimbarongo,Manzano Rojo,2024,4,407.76,498256
+Chimbarongo,Manzano Rojo,2024,5,25.88,28359
+Chimbarongo,Manzano Verde,2024,1,68.67,91287
+Chimbarongo,Manzano Verde,2024,2,47.04,55732
+Chimbarongo,Manzano Verde,2024,4,159.46,156777
+Chimbarongo,Manzano Verde,2024,5,5.71,5349
+Chimbarongo,Membrillo,2024,1,13.89,14817
+Chimbarongo,Membrillo,2024,4,13.84,14253
+Chimbarongo,Moras Cultivadas e Híbridos,2024,1,5.07,27221
+Chimbarongo,Moras Cultivadas e Híbridos,2024,4,20.02,89768
+Chimbarongo,Moras Cultivadas e Híbridos,2024,5,0.2,1143
+Chimbarongo,Naranjo,2024,1,1.2,1500
+Chimbarongo,Nectarino,2024,1,43.85,65116
+Chimbarongo,Nectarino,2024,4,2.2,2033
+Chimbarongo,Nectarino,2024,5,3.0,3333
+Chimbarongo,Nogal,2024,1,240.3,71411
+Chimbarongo,Nogal,2024,2,193.27,61270
+Chimbarongo,Nogal,2024,4,2.65,899
+Chimbarongo,Palto,2024,1,2.0,2857
+Chimbarongo,Palto,2024,2,2.6999999999999997,1800
+Chimbarongo,Peral,2024,1,96.75,159328
+Chimbarongo,Peral,2024,2,59.46,85043
+Chimbarongo,Peral,2024,4,41.22,56806
+Chimbarongo,Peral,2024,5,7.5,10208
+Chimbarongo,Pluots,2024,1,3.22,4025
+Chimbarongo,Tuna,2024,4,3.0,3000
+Chimbarongo,Vid de Mesa,2024,1,111.36,124038
+Chimbarongo,Vid de Mesa,2024,2,2.4,2286
+Chépica,Almendro,2024,1,0.86,315
+Chépica,Arándano Americano,2024,1,9.11,73893
+Chépica,Cerezo,2024,1,733.36,829409
+Chépica,Cerezo,2024,4,5.83,6793
+Chépica,Ciruelo Europeo,2024,1,577.65,292978
+Chépica,Ciruelo Europeo,2024,4,24.39,23181
+Chépica,Ciruelo Europeo,2024,5,59.41,29224
+Chépica,Ciruelo Japonés,2024,1,37.01,41537
+Chépica,Damasco,2024,1,4.39,2927
+Chépica,Duraznero Consumo Fresco,2024,1,0.43,538
+Chépica,Duraznero Tipo Conservero,2024,1,129.9,129677
+Chépica,Duraznero Tipo Conservero,2024,5,12.2,13555
+Chépica,Limonero,2024,5,1.4700000000000002,980
+Chépica,Mandarino,2024,1,23.21,29028
+Chépica,Manzano Rojo,2024,1,37.93000000000001,39827
+Chépica,Manzano Verde,2024,1,23.76,21150
+Chépica,Naranjo,2024,1,35.0,24250
+Chépica,Nectarino,2024,1,28.64,35987
+Chépica,Nogal,2024,1,141.61,38411
+Chépica,Palto,2024,1,21.3,17750
+Chépica,Palto,2024,5,0.99,555
+Chépica,Peral,2024,1,67.88,75395
+Chépica,Peral,2024,4,2.1,1600
+Chépica,Peral,2024,5,7.53,7266
+Chépica,Vid de Mesa,2024,1,317.28,345883
+Chépica,Vid de Mesa,2024,4,9.97,8139
+Chépica,Vid de Mesa,2024,5,60.99,75019
+Lolol,Almendro,2024,1,232.95,153492
+Lolol,Arándano Americano,2024,1,42.19,156304
+Lolol,Cerezo,2024,1,139.09,159047
+Lolol,Ciruelo Europeo,2024,1,1095.34,595987
+Lolol,Ciruelo Europeo,2024,2,16.75,5583
+Lolol,Duraznero Tipo Conservero,2024,1,80.48,60659
+Lolol,Kiwi,2024,1,31.01,25267
+Lolol,Limonero,2024,1,10.21,10200
+Lolol,Limonero,2024,4,0.14,58
+Lolol,Mandarino,2024,1,78.17999999999999,76497
+Lolol,Naranjo,2024,1,7.8,5633
+Lolol,Naranjo,2024,4,0.14,58
+Lolol,Nectarino,2024,1,7.7,5703
+Lolol,Nogal,2024,1,165.79,63165
+Lolol,Olivo,2024,1,785.84,444413
+Lolol,Olivo,2024,4,0.8500000000000001,354
+Lolol,Palto,2024,1,135.38,120928
+Lolol,Palto,2024,4,0.3,125
+Lolol,Vid de Mesa,2024,1,46.26,72118
+Nancagua,Arándano Americano,2024,1,10.23,96132
+Nancagua,Cerezo,2024,1,404.1,482278
+Nancagua,Cerezo,2024,5,21.52,23678
+Nancagua,Ciruelo Europeo,2024,1,327.78,179838
+Nancagua,Ciruelo Europeo,2024,5,206.81,101654
+Nancagua,Ciruelo Japonés,2024,1,34.51,43137
+Nancagua,Ciruelo Japonés,2024,5,10.9,7411
+Nancagua,Duraznero Tipo Conservero,2024,1,20.759999999999998,11300
+Nancagua,Duraznero Tipo Conservero,2024,5,26.1,17431
+Nancagua,Kiwi,2024,1,127.47,123560
+Nancagua,Mandarino,2024,1,99.22999999999999,101140
+Nancagua,Naranjo,2024,1,28.84,23883
+Nancagua,Nectarino,2024,1,44.5,72393
+Nancagua,Nectarino,2024,5,1.2,1181
+Nancagua,Nogal,2024,1,62.26,20728
+Nancagua,Peral,2024,1,3.0,3750
+Nancagua,Peral,2024,5,21.41,20147
+Nancagua,Pluots,2024,1,2.33,2913
+Nancagua,Vid de Mesa,2024,1,478.41,538543
+Nancagua,Vid de Mesa,2024,5,134.37,148298
+Palmilla,Avellano,2024,1,15.64,10427
+Palmilla,Cerezo,2024,1,1188.29,1443061
+Palmilla,Cerezo,2024,2,23.16,23210
+Palmilla,Ciruelo Europeo,2024,1,883.1,443711
+Palmilla,Ciruelo Europeo,2024,2,13.23,5345
+Palmilla,Ciruelo Europeo,2024,4,51.91,24245
+Palmilla,Ciruelo Europeo,2024,5,15.3,7650
+Palmilla,Ciruelo Japonés,2024,1,166.6,229903
+Palmilla,Duraznero Tipo Conservero,2024,1,6.37,6666
+Palmilla,Kiwi,2024,1,71.93,56587
+Palmilla,Kiwi Gold o Kiwi Amarillo,2024,1,2.38,2645
+Palmilla,Limonero,2024,1,86.39,60304
+Palmilla,Limonero,2024,4,0.69,345
+Palmilla,Mandarino,2024,1,249.84,255306
+Palmilla,Naranjo,2024,1,151.54999999999998,149117
+Palmilla,Naranjo,2024,4,7.68,3840
+Palmilla,Nectarino,2024,1,113.41,168897
+Palmilla,Nogal,2024,1,49.66,14188
+Palmilla,Palto,2024,1,79.62,79620
+Palmilla,Palto,2024,2,72.06,60050
+Palmilla,Peral,2024,1,2.64,1956
+Palmilla,Peral,2024,4,23.32,19785
+Palmilla,Pluots,2024,1,14.74,25210
+Palmilla,Vid de Mesa,2024,1,274.75,291977
+Peralillo,Almendro,2024,1,132.74,120778
+Peralillo,Arándano Americano,2024,1,9.899999999999999,40334
+Peralillo,Avellano,2024,1,11.95,3982
+Peralillo,Cerezo,2024,1,397.72,538015
+Peralillo,Cerezo,2024,2,62.29,68410
+Peralillo,Cerezo,2024,4,9.48,9447
+Peralillo,Ciruelo Europeo,2024,1,950.46,669282
+Peralillo,Ciruelo Europeo,2024,4,105.11,59194
+Peralillo,Ciruelo Japonés,2024,1,53.459999999999994,66760
+Peralillo,Ciruelo Japonés,2024,4,4.33,2886
+Peralillo,Duraznero Tipo Conservero,2024,1,49.47,52348
+Peralillo,Kiwi,2024,1,15.74,17489
+Peralillo,Manzano Rojo,2024,1,37.08,37177
+Peralillo,Manzano Verde,2024,1,1.9300000000000002,1608
+Peralillo,Membrillo,2024,4,14.81,9913
+Peralillo,Naranjo,2024,1,42.49,42679
+Peralillo,Naranjo,2024,4,1.63,2038
+Peralillo,Nectarino,2024,1,6.32,4822
+Peralillo,Nectarino,2024,4,2.0,1667
+Peralillo,Nogal,2024,1,119.14,38122
+Peralillo,Olivo,2024,1,20.34,5413
+Peralillo,Peral,2024,1,37.61,32396
+Peralillo,Peral,2024,4,36.38,26690
+Peralillo,Pluots,2024,1,1.67,2900
+Peralillo,Vid de Mesa,2024,1,212.08,246491
+Peralillo,Vid de Mesa,2024,4,10.4,8490
+Placilla,Arándano Americano,2024,1,30.23,166361
+Placilla,Cerezo,2024,1,739.63,843447
+Placilla,Cerezo,2024,4,111.98,125315
+Placilla,Ciruelo Europeo,2024,1,99.58,76293
+Placilla,Ciruelo Europeo,2024,4,124.08,64503
+Placilla,Ciruelo Japonés,2024,1,33.18,36278
+Placilla,Ciruelo Japonés,2024,4,11.77,10272
+Placilla,Duraznero Tipo Conservero,2024,1,0.26,250
+Placilla,Duraznero Tipo Conservero,2024,4,10.48,13329
+Placilla,Kiwi,2024,1,83.8,76438
+Placilla,Kiwi,2024,2,0.13,120
+Placilla,Kiwi,2024,4,17.42,12910
+Placilla,Kiwi Gold o Kiwi Amarillo,2024,1,6.67,6353
+Placilla,Kiwi Gold o Kiwi Amarillo,2024,2,2.29,2065
+Placilla,Limonero,2024,4,3.04,1105
+Placilla,Mandarino,2024,1,4.76,4760
+Placilla,Manzano Rojo,2024,1,40.839999999999996,53906
+Placilla,Manzano Rojo,2024,2,9.07,10421
+Placilla,Manzano Rojo,2024,4,179.37,176632
+Placilla,Manzano Verde,2024,1,4.78,6104
+Placilla,Manzano Verde,2024,2,12.209999999999999,14948
+Placilla,Manzano Verde,2024,4,31.54,25594
+Placilla,Naranjo,2024,4,4.41,1469
+Placilla,Nectarino,2024,1,3.79,4824
+Placilla,Nectarino,2024,4,43.32,51942
+Placilla,Palto,2024,1,4.3,6302
+Placilla,Peral,2024,1,60.16,95669
+Placilla,Peral,2024,2,14.05,18414
+Placilla,Peral,2024,4,188.34,138475
+Placilla,Vid de Mesa,2024,1,615.99,711579
+Placilla,Vid de Mesa,2024,4,105.14,122187
+Pumanque,Arándano Americano,2024,1,52.02,210568
+Pumanque,Avellano,2024,1,36.72,24476
+Pumanque,Cerezo,2024,1,53.04,56244
+Pumanque,Ciruelo Europeo,2024,1,122.4,76102
+Pumanque,Duraznero Tipo Conservero,2024,1,13.5,12001
+Pumanque,Limonero,2024,1,0.2,133
+Pumanque,Mandarino,2024,1,90.3,90300
+Pumanque,Nectarino,2024,1,32.9,30355
+Pumanque,Olivo,2024,1,189.78,152045
+Pumanque,Palto,2024,1,0.5,333
+Pumanque,Pistacho,2024,1,7.0,3457
+Pumanque,Vid de Mesa,2024,1,131.9,209075
+San Fernando,Arándano Americano,2024,1,8.48,39639
+San Fernando,Cerezo,2024,1,2868.54,3221636
+San Fernando,Cerezo,2024,2,173.72,166562
+San Fernando,Cerezo,2024,4,137.0,143827
+San Fernando,Cerezo,2024,5,47.230000000000004,34411
+San Fernando,Ciruelo Europeo,2024,1,205.32999999999998,121279
+San Fernando,Ciruelo Japonés,2024,1,72.68,87999
+San Fernando,Ciruelo Japonés,2024,2,6.4,4724
+San Fernando,Ciruelo Japonés,2024,4,26.53,20748
+San Fernando,Duraznero Consumo Fresco,2024,1,2.03,2538
+San Fernando,Kiwi,2024,1,263.27,224265
+San Fernando,Kiwi,2024,2,110.62,76114
+San Fernando,Kiwi,2024,4,3.22,1735
+San Fernando,Kiwi,2024,5,29.2,19427
+San Fernando,Kiwi Gold o Kiwi Amarillo,2024,1,19.12,19138
+San Fernando,Kiwi Gold o Kiwi Amarillo,2024,2,2.31,2161
+San Fernando,Manzano Rojo,2024,1,273.64,425610
+San Fernando,Manzano Rojo,2024,2,43.9,79960
+San Fernando,Manzano Rojo,2024,3,1.27,940
+San Fernando,Manzano Rojo,2024,4,55.18,61324
+San Fernando,Manzano Rojo,2024,5,50.76,59171
+San Fernando,Manzano Verde,2024,1,77.98,86806
+San Fernando,Manzano Verde,2024,2,9.45,14342
+San Fernando,Manzano Verde,2024,3,0.13,96
+San Fernando,Manzano Verde,2024,4,82.4,62952
+San Fernando,Manzano Verde,2024,5,37.15,21155
+San Fernando,Nectarino,2024,1,37.8,84969
+San Fernando,Nectarino,2024,2,3.79,2412
+San Fernando,Nogal,2024,1,74.1,27725
+San Fernando,Nogal,2024,2,10.0,4761
+San Fernando,Olivo,2024,1,56.74,33435
+San Fernando,Peral,2024,1,205.13,298444
+San Fernando,Peral,2024,2,41.730000000000004,70547
+San Fernando,Peral,2024,4,26.840000000000003,24694
+San Fernando,Peral,2024,5,61.18,41910
+San Fernando,Pluots,2024,1,1.2,800
+San Fernando,Pluots,2024,2,1.73,2563
+San Fernando,Vid de Mesa,2024,1,432.78,498426
+San Fernando,Vid de Mesa,2024,4,20.44,27514
+San Fernando,Vid de Mesa,2024,5,21.16,25316
+Santa Cruz,Almendro,2024,1,19.18,54373
+Santa Cruz,Arándano Americano,2024,1,66.4,281181
+Santa Cruz,Cerezo,2024,1,887.05,1023120
+Santa Cruz,Cerezo,2024,5,3.0,2000
+Santa Cruz,Ciruelo Europeo,2024,1,938.93,578904
+Santa Cruz,Ciruelo Europeo,2024,4,10.19,4855
+Santa Cruz,Ciruelo Europeo,2024,5,217.22,116589
+Santa Cruz,Ciruelo Japonés,2024,1,80.82,90390
+Santa Cruz,Damasco,2024,1,5.6,4665
+Santa Cruz,Duraznero Consumo Fresco,2024,1,21.39,29449
+Santa Cruz,Duraznero Tipo Conservero,2024,1,51.68,46602
+Santa Cruz,Kiwi,2024,1,18.61,10481
+Santa Cruz,Limonero,2024,1,21.279999999999998,16711
+Santa Cruz,Limonero,2024,4,1.13,1004
+Santa Cruz,Mandarino,2024,1,114.61,114610
+Santa Cruz,Manzano Rojo,2024,1,11.0,14769
+Santa Cruz,Manzano Verde,2024,1,6.3,10056
+Santa Cruz,Manzano Verde,2024,5,2.56,800
+Santa Cruz,Naranjo,2024,1,38.03,38123
+Santa Cruz,Nectarino,2024,1,72.14,95640
+Santa Cruz,Nogal,2024,1,138.59,42747
+Santa Cruz,Olivo,2024,1,1.58,805
+Santa Cruz,Olivo,2024,4,0.8200000000000001,454
+Santa Cruz,Palto,2024,1,222.31,320535
+Santa Cruz,Peral,2024,1,67.67999999999999,81659
+Santa Cruz,Peral,2024,5,52.49,29854
+Santa Cruz,Pistacho,2024,1,13.9,5020
+Santa Cruz,Pluots,2024,1,4.42,5541
+Santa Cruz,Vid de Mesa,2024,1,180.03,225852
+Santa Cruz,Vid de Mesa,2024,4,3.02,2359

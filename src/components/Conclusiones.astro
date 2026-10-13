@@ -1,0 +1,53 @@
+---
+const hallazgos = [
+  {
+    titulo: 'Diferencias marcadas entre comunas',
+    texto: 'Las 10 comunas presentan realidades muy distintas en superficie agrícola, actividad económica y exposición a incendios. No pueden tratarse como un bloque homogéneo.',
+  },
+  {
+    titulo: 'Comunas de alta exposición y alto peso',
+    texto: 'Nancagua y Santa Cruz combinan alta exposición a incendios con un peso económico agrícola relevante, siendo prioridad para prevención.',
+  },
+  {
+    titulo: 'Exposición creciente hacia 2030',
+    texto: 'Las proyecciones muestran un aumento sostenido de la superficie potencialmente afectada, con la exposición económica superando los 13 millones de UF hacia 2030.',
+  },
+  {
+    titulo: 'Evidencia para decisiones reales',
+    texto: 'Los hallazgos permiten focalizar recursos en prevención de incendios, gestión hídrica y apoyo a las PYMEs agrícolas más vulnerables.',
+  },
+];
+---
+
+<section id="conclusiones" class="py-32 px-6 bg-black border-t border-zinc-900">
+  <div class="max-w-7xl mx-auto">
+    <p class="text-cyan-400 font-mono text-sm mb-4 tracking-widest uppercase">03 — Conclusiones</p>
+    <h2 class="text-5xl md:text-7xl font-bold text-white leading-tight mb-8 max-w-4xl">
+      Hallazgos sobre la <span class="text-cyan-400">vulnerabilidad territorial</span>.
+    </h2>
+    <p class="text-xl text-zinc-400 max-w-3xl mb-16 leading-relaxed">
+      El análisis permitió identificar patrones claros de exposición que pueden
+      orientar decisiones de prevención, gestión de recursos y apoyo a la
+      actividad agrícola en Colchagua.
+    </p>
+
+    <div class="grid md:grid-cols-2 gap-8">
+      {hallazgos.map((h, i) => (
+        <div class="p-8 border border-zinc-800 rounded-lg hover:border-cyan-400/50 transition">
+          <p class="text-cyan-400 font-mono text-xs mb-4">
+            {String(i + 1).padStart(2, '0')}
+          </p>
+          <h3 class="text-xl font-bold text-white mb-3">{h.titulo}</h3>
+          <p class="text-zinc-400 leading-relaxed">{h.texto}</p>
+        </div>
+      ))}
+    </div>
+
+    <div class="mt-16 p-8 bg-zinc-900 border border-zinc-800 rounded-lg">
+      <p class="text-sm text-zinc-500 italic">
+        Nota metodológica: los resultados muestran asociaciones y proyecciones
+        basadas en los datos disponibles. Correlación no implica causalidad.
+      </p>
+    </div>
+  </div>
+</section>

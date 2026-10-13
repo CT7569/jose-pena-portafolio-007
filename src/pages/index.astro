@@ -1,16 +1,20 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Hero from '../components/Hero.astro';
+import SobreMi from '../components/SobreMi.astro';
+import ProyectoColchagua from '../components/ProyectoColchagua.astro';
+import Conclusiones from '../components/Conclusiones.astro';
+import Proyectos from '../components/Proyectos.astro';
+import Contacto from '../components/Contacto.astro';
 ---
 
 <Layout>
-	<main class="min-h-screen bg-slate-900 text-white flex items-center justify-center px-6">
-		<div class="max-w-3xl text-center">
-			<h1 class="text-5xl md:text-6xl font-bold mb-4">
-				Portafolio BI — José Peña
-			</h1>
-			<p class="text-xl md:text-2xl text-slate-300">
-				Analista de Business Intelligence · Caso Colchagua
-			</p>
-		</div>
-	</main>
+	<Header />
+	<Hero />
+	<SobreMi />
+	<ProyectoColchagua />
+	<Conclusiones />
+	<Proyectos />
+	<Contacto />
 </Layout>
